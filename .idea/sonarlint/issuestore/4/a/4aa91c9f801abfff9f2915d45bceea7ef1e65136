@@ -1,0 +1,13 @@
+
+b
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµþÿÿÿÿ
+c
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(¸é¡›øÿÿÿÿ
+Q
+java:S6437"6Revoke and change this password, as it is compromised.(¸é¡›øÿÿÿÿ
+:
+java:S6905"Don't use the query "SELECT *".(­ß·žýÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(œêãÔ
+E	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(“Éò–
+E	java:S106""+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ

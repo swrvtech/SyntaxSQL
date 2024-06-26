@@ -1,0 +1,13 @@
+
+
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8Îğç©…2J$344b1f2c-297c-443d-ba6b-bc358c39dce2
+
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(¸é¡›øÿÿÿÿ8Îğç©…2J$670901ce-a711-4d46-a937-e582aefc6595
+~
+java:S6437"6Revoke and change this password, as it is compromised.(¸é¡›øÿÿÿÿ8Ñğç©…2J$b197ba21-dec9-42ba-a460-b22f6c853db8
+g
+java:S6905"Don't use the query "SELECT *".(­ß·ıÿÿÿÿ8Ñğç©…2J$a7222e53-a03c-4f4b-b8c4-74c2fc84c4bb
+m	java:S106"+Replace this use of System.out by a logger.(œêãÔ8Òğç©…2J$1d9cefc8-b4ca-4c63-aa9d-aa32277712c1
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Òğç©…2J$16cdf6ab-a9d4-49a0-9739-3219ba365018
+m	java:S106"+Replace this use of System.out by a logger.(“Éò–8Òğç©…2J$280ce723-f8d3-4d7d-acab-6f5b61104c42
+r	java:S106""+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8»€î©…2J$5fe1a588-f6f3-4771-aab5-5fee85ada29c
