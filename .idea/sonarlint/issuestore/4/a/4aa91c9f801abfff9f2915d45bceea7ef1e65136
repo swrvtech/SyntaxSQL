@@ -1,13 +1,10 @@
 
-b
-java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
-c
-java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(¸é¡›øÿÿÿÿ
-Q
-java:S6437"6Revoke and change this password, as it is compromised.(¸é¡›øÿÿÿÿ
-:
-java:S6905"Don't use the query "SELECT *".(­ß·ıÿÿÿÿ
-@	java:S106"+Replace this use of System.out by a logger.(œêãÔ
-E	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
-@	java:S106"+Replace this use of System.out by a logger.(“Éò–
-E	java:S106""+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8¦íƒª…2J$1a882f33-2864-4ffd-aa70-4ae2f86ab93d
+
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(¸é¡›øÿÿÿÿ8¦íƒª…2J$85e220be-f2ed-49fd-813e-87c3e2728108
+~
+java:S6437"6Revoke and change this password, as it is compromised.(¸é¡›øÿÿÿÿ8¨íƒª…2J$ee02e3de-756f-4baf-9074-a3f96a1cee73
+g
+java:S6905"Don't use the query "SELECT *".(­ß·ıÿÿÿÿ8©íƒª…2J$e54870c3-197f-4e1d-8f6b-8cde12d37901
+m	java:S106("+Replace this use of System.out by a logger.(¤½Øå8ù Šª…2J$ddbc5c1b-b9e1-4d7a-8838-ea0c40050642
